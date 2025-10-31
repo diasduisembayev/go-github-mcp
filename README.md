@@ -67,8 +67,7 @@ export GITHUB_TOKEN=your_github_token_here
 
 Add the MCP server to your Claude configuration file:
 
-**macOS/Linux:** `~/.claude/mcp_servers.json`  
-**Windows:** `%APPDATA%\Claude\mcp_servers.json`
+~/.claude.json
 
 ```json
 {
